@@ -1,5 +1,5 @@
 # UWOC
-Underwater Optical Wireless Communications simulation tool
+Underwater Wireless Optical Communications simulation tool
 
 This code is the modified version of the "PHOTONATOR" simulation tool by William Cox 
 (which is avaiable at http://www.github.com/gallamine/Photonator 
