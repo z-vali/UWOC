@@ -1,4 +1,4 @@
-# Underwater-Optical-Wireless-Communiations
+# Underwater-Wireless-Optical-Communiations
 Underwater Wireless Optical Communications Simulation Tool
 
 This code is the modified version of the "PHOTONATOR" simulation tool by William Cox 
