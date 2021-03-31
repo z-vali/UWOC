@@ -12,4 +12,4 @@ Vali, Zahra; Gholami, Asghar; Michelson, David G.; Ghassemlooy, Zabih; Omoomi, M
 IET Digital Library, https://digital-library.theiet.org/content/journals/10.1049/iet-opt.2016.0132
 
 
-
+Channel impulse response, frequency responce, and total recieved power at the Rx are obtained from the code.
